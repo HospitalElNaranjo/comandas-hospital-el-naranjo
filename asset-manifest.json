@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comandas-hospital-el-naranjo/static/css/main.a40e4056.css",
+    "main.js": "/comandas-hospital-el-naranjo/static/js/main.c32a574e.js",
+    "static/js/453.572e0269.chunk.js": "/comandas-hospital-el-naranjo/static/js/453.572e0269.chunk.js",
+    "index.html": "/comandas-hospital-el-naranjo/index.html",
+    "main.a40e4056.css.map": "/comandas-hospital-el-naranjo/static/css/main.a40e4056.css.map",
+    "main.c32a574e.js.map": "/comandas-hospital-el-naranjo/static/js/main.c32a574e.js.map",
+    "453.572e0269.chunk.js.map": "/comandas-hospital-el-naranjo/static/js/453.572e0269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a40e4056.css",
+    "static/js/main.c32a574e.js"
+  ]
+}
