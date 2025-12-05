@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/comandas-hospital-el-naranjo/static/css/main.bbe43bfb.css",
-    "main.js": "/comandas-hospital-el-naranjo/static/js/main.8ecabd13.js",
+    "main.css": "/comandas-hospital-el-naranjo/static/css/main.d3b5e415.css",
+    "main.js": "/comandas-hospital-el-naranjo/static/js/main.d87d8cdf.js",
     "static/js/453.572e0269.chunk.js": "/comandas-hospital-el-naranjo/static/js/453.572e0269.chunk.js",
     "index.html": "/comandas-hospital-el-naranjo/index.html",
-    "main.bbe43bfb.css.map": "/comandas-hospital-el-naranjo/static/css/main.bbe43bfb.css.map",
-    "main.8ecabd13.js.map": "/comandas-hospital-el-naranjo/static/js/main.8ecabd13.js.map",
+    "main.d3b5e415.css.map": "/comandas-hospital-el-naranjo/static/css/main.d3b5e415.css.map",
+    "main.d87d8cdf.js.map": "/comandas-hospital-el-naranjo/static/js/main.d87d8cdf.js.map",
     "453.572e0269.chunk.js.map": "/comandas-hospital-el-naranjo/static/js/453.572e0269.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbe43bfb.css",
-    "static/js/main.8ecabd13.js"
+    "static/css/main.d3b5e415.css",
+    "static/js/main.d87d8cdf.js"
   ]
 }
